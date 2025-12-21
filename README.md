@@ -1,7 +1,10 @@
 ## Hi 👋, I'm Divyanshi Rathour
 Passionate Learner | Aspiring Developer
 
-⏰ **Current IST Time:**  ![IST Time](https://time-github-badge.vercel.app/api/time?timezone=Asia/Kolkata&label=IST&format=yyyy-MM-dd'T'HH:mm:ssXXX)
+⏰ **Current IST Time:**  
+![IST Time](https://img.shields.io/badge/IST-Time-blue?style=for-the-badge)
+![Time](https://worldtimeapi.org/api/timezone/Asia/Kolkata.txt)
+
 
 
 🌱 I'm currently learning Web Development
