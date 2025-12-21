@@ -3,6 +3,7 @@ Passionate Learner | Aspiring Developer
 
 🌱 I'm currently learning Web Development
 
+⏰ **Timezone:** IST (UTC +05:30)
 
 📫 Reach me at: divyanshirathour2006@gmail.com
 
