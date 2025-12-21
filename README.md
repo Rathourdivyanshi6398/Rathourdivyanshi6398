@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Divyanshi Rathour
 Passionate Learner | Aspiring Developer
 
-⏰ **Current IST Time:**  
-![IST Time](https://time-github-badge.vercel.app/api/time?timezone=Asia/Kolkata&format=hh:mm:ss%20A)
+⏰ **Current IST Time:**  ![IST Time](https://time-github-badge.vercel.app/api/time?timezone=Asia/Kolkata&label=IST&format=yyyy-MM-dd'T'HH:mm:ssXXX)
+
 
 🌱 I'm currently learning Web Development
 📫 Reach me at: divyanshirathour2006@gmail.com
