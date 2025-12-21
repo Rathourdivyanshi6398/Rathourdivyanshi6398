@@ -17,7 +17,7 @@ Passionate Learner | Aspiring Developer
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge)
 
-## 🐍 GitHub Contribution Snake Game
+## 🐍 GitHub Contribution 
 
 ![Snake animation](https://github.com/Rathourdivyanshi6398/Rathourdivyanshi6398/blob/output/github-contribution-grid-snake-dark.svg)
 
